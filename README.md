@@ -1,2 +1,2 @@
 # Customer-segmentation-churn-analysis
-Customer segmentation and churn analysis using Agglomerative Clustering in Python, including PCA, visualization, and behavioral insights for retention strategies.
+This project applies customer segmentation and churn analysis using Agglomerative Clustering. The analysis leverages Python libraries such as pandas, scikit-learn, and seaborn. Key processes include data preprocessing, PCA dimensionality reduction, clustering, and interpretation through visualizations. The goal is to uncover customer behavior patterns and identify potential churn risks to support business decision-making.
